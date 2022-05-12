@@ -1,0 +1,11 @@
+05-11-2022 @ 22:35:59 - 3.1.0 - No subscription webhooks found using API version 3. No updates needed.
+05-11-2022 @ 22:35:59 - 3.1.6 upgrade complete from Subscriptions v0 while WooCommerce WC_VERSION 6.4.1 and database version 6.4.1 was active.
+05-11-2022 @ 22:35:59 - Environment info:
+05-11-2022 @ 22:35:59 -     WordPress Version : 5.9.3
+05-11-2022 @ 22:35:59 - Active Plugins:
+05-11-2022 @ 22:35:59 -     aThemes Blocks by aThemes – 1.0.4
+05-11-2022 @ 22:35:59 -     aThemes Starter Sites by aThemes – 1.0.20
+05-11-2022 @ 22:35:59 -     WooCommerce Stripe Gateway by WooCommerce – 6.3.0
+05-11-2022 @ 22:35:59 -     WooCommerce Payments by Automattic – 4.1.0
+05-11-2022 @ 22:35:59 -     WooCommerce by Automattic – 6.4.1
+05-11-2022 @ 22:35:59 -     WPForms Lite by WPForms – 1.7.4.1
